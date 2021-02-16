@@ -24,5 +24,4 @@ public class HazelcastConfiguration {
                 .setTimeToLiveSeconds(-1));//  less then 0 means never expired.
     return config;
   }
-
 }

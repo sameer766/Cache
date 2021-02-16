@@ -18,5 +18,4 @@ public class CacheExampleApplication {
   public static void main(String[] args) {
     SpringApplication.run(CacheExampleApplication.class, args);
   }
-
 }
